@@ -1,7 +1,7 @@
 -- SQL script for data extraction from customer sales databases
 
 -- Connect to the database
-USE YourDatabaseName;
+USE sample.csv;
 
 -- Extract data from multiple related tables
 SELECT 
