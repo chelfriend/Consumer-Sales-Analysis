@@ -1,14 +1,14 @@
 # Consumer-Sales-Analysis
-Project Overview:
+#Project Overview:
 The Customer Sales Analysis project aims to analyze customer sales data to derive actionable insights that can improve sales performance. The project involves extracting data from multiple related tables in customer sales databases using SQL, transforming and filtering the data to enhance reporting processes, and visualizing the data using Python to identify key business intelligence metrics.
 
-Tools Used:
+#Tools Used:
 
 SQL for data extraction and manipulation
 Python for data visualization
 Key Steps:
 
-Data Extraction:
+#Data Extraction:
 Utilized SQL queries to extract data from 8 different related tables in the customer sales databases.
 Employed JOIN operations to combine data from multiple tables and create comprehensive datasets for analysis.
 Created VIEWs to simplify complex queries and improve data accessibility.
