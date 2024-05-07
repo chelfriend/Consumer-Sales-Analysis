@@ -23,5 +23,7 @@ Sales trends over time (e.g., monthly or quarterly sales trends)
 Customer segmentation analysis (e.g., sales by customer segment or geographic region)
 Product performance analysis (e.g., top-selling products, product sales distribution)
 Generated interactive visualizations using tools like Plotly to facilitate exploration and analysis of the data.
+
+
 Project Outcome:
 The Customer Sales Analysis project resulted in the identification of key business intelligence metrics that can inform strategic decision-making and improve sales performance. The project deliverables include SQL scripts for data extraction and manipulation, Python scripts for data visualization, and a comprehensive report summarizing the analysis findings and recommendations.
